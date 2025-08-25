@@ -11,7 +11,7 @@ This tool bridges classical interactivity with quantum computing concepts by hel
 
 ### 🌐 Bloch Sphere Preview
 
-![Bloch Sphere](Images/image copy .png)
+![Bloch Sphere](Images/image_copy.png)
 
 
 
